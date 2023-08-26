@@ -13,10 +13,10 @@ Este curso fornecerá o seguinte conteúdo:
 </p>
 
 <ol>
-    <li><a href="https://wmpjrufg.github.io/GIT_REA/001-0.html">Módulo 1: Introdução ao conceito de controle de versão</a>;</li>
-    <li><a href="https://wmpjrufg.github.io/GIT_REA/002-0.html">Módulo 2: Primeiros passos - <i>commits</i>, <i>pull</i> e <i>push</i></a>;</li>
-    <li><a href="https://wmpjrufg.github.io/GIT_REA/003-0.html">Módulo 3: Trabalhando em equipes</a>;</li>
-    <li><a href="https://wmpjrufg.github.io/GIT_REA/004-0.html">Módulo extra: Orgnização de fluxo</a>.</li>
+  <li><a href="https://wmpjrufg.github.io/GIT_REA/001-0.html">Módulo 1: Introdução ao conceito de controle de versão</a>;</li>
+  <li><a href="https://wmpjrufg.github.io/GIT_REA/002-0.html">Módulo 2: Primeiros passos - <i>commits</i>, <i>pull</i> e <i>push</i></a>;</li>
+  <li><a href="https://wmpjrufg.github.io/GIT_REA/003-0.html">Módulo 3: Trabalhando em equipes</a>;</li>
+  <li><a href="https://wmpjrufg.github.io/GIT_REA/004-0.html">Módulo extra: Organização de fluxo</a>.</li>
 </ol>
 
 <p align = "justify">
