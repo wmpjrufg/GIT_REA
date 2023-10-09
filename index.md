@@ -12,11 +12,16 @@ Este curso é ministrado por membros do grupo GPEE.<br><br>
 Este curso fornecerá o seguinte conteúdo:
 </p>
 
-<ol>
+<!--<ol>
   <li><a href="https://wmpjrufg.github.io/GIT_REA/001-0.html">Módulo 1: Introdução ao conceito de controle de versão</a>;</li>
   <li><a href="https://wmpjrufg.github.io/GIT_REA/002-0.html">Módulo 2: Primeiros passos - <i>commits</i>, <i>pull</i> e <i>push</i></a>;</li>
   <li><a href="https://wmpjrufg.github.io/GIT_REA/003-0.html">Módulo 3: Trabalhando em equipes</a>;</li>
   <li><a href="https://wmpjrufg.github.io/GIT_REA/004-0.html">Módulo extra: Organização de fluxo</a>.</li>
+</ol>-->
+
+<ol>
+  <li><a href = "https://github.com/wmpjrufg/GIT_REA/001-0.md">Módulo 1</a></li>
+  <li><a href = "https://github.com/wmpjrufg/GIT_REA/002-0.md">Módulo 2</a></li>
 </ol>
 
 <p align = "justify">
