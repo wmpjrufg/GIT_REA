@@ -20,8 +20,8 @@ Este curso fornecerá o seguinte conteúdo:
 </ol>-->
 
 <ol>
-  <li><a href = "https://github.com/wmpjrufg/GIT_REA/001-0.html">Módulo 1</a></li>
-  <li><a href = "https://github.com/wmpjrufg/GIT_REA.git/002-0.md">Módulo 2</a></li>
+  <li><a href = "https://wmpjrufg.github.io/GIT_REA/001-0.html">Módulo 1</a></li>
+  <li><a href = "https://wmpjrufg.github.io/GIT_REA/002-0.html">Módulo 2</a></li>
 </ol>
 
 <p align = "justify">
