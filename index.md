@@ -20,8 +20,8 @@ Este curso fornecerá o seguinte conteúdo:
 </ol>-->
 
 <ol>
-  <li><a href = "https://wmpjrufg.github.io/GIT_REA/001-0.html">Módulo 1 - Introdução ao conceito de controle de versão</a></li>
-  <li><a href = "https://wmpjrufg.github.io/GIT_REA/002-0.html">Módulo 2 - Git e GitHub na prática</a></li>
+  <li><a href = "https://wmpjrufg.github.io/GIT0001/001-0.html">Módulo 1 - Introdução ao conceito de controle de versão</a></li>
+  <li><a href = "https://wmpjrufg.github.io/GIT0001/002-0.html">Módulo 2 - Git e GitHub na prática</a></li>
 </ol>
 
 <p align = "justify">
