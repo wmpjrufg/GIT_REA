@@ -40,4 +40,4 @@ Após a instalação é necessário criar uma conta no repositório <i>online</i
 {: .highlight-title }
 > Testando o git
 >
-> Para verificar se o git foi instalado corretamente vá até o terminal e digite o seguinte comando: `git --version`. Provavelmente após a execução aparecerá no terminal a versão do git, por exemplo: `git version 2.34.1`.
+> Para verificar se o git foi instalado corretamente vá até o terminal e digite o seguinte comando: `git --version`.Provavelmente após a execução aparecerá no terminal a versão do git, por exemplo: `git version 2.34.1`.
