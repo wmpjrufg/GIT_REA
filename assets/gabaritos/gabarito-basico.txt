@@ -1,0 +1,31 @@
+1-Inicialização do Projeto:
+
+git init (iniciar o repositório)
+git flow init (iniciar o GitFlow no repositório)
+Crie o arquivo "README.md" e faça um commit inicial.
+
+2-Implementação de Funcionalidades:
+
+git flow feature start funcionalidade1 (iniciar funcionalidade1)
+Desenvolva a funcionalidade1 e faça commits regulares.
+Repita para funcionalidades2 e funcionalidade3.
+
+3-Integração de Funcionalidades:
+
+git flow feature finish funcionalidade1 (finalizar funcionalidade1)
+Repita para funcionalidade2 e funcionalidade3.
+
+4-Preparação para Lançamento:
+
+git flow release start v1.0.0 (iniciar release)
+Atualize "README.md" com informações sobre a versão.
+
+5-Lançamento e Tagging:
+
+git flow release finish v1.0.0 (finalizar release)
+
+6-Correção de Bug:
+
+git flow hotfix start v1.0.1 (iniciar hotfix)
+Corrija o bug na branch de hotfix.
+git flow hotfix finish v1.0.1 (finalizar hotfix)

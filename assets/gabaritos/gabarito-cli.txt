@@ -1,0 +1,43 @@
+Gabarito:
+
+1-Inicialização do Projeto:
+
+git init (iniciar o repositório)
+Crie o arquivo "README.md" e faça um commit inicial.
+
+2-Implementação de Funcionalidades:
+
+git checkout -b develop (criar e mudar para a branch develop)
+git checkout -b funcionalidade1 (criar branch para funcionalidade1)
+Desenvolva a funcionalidade1 e faça commits regulares.
+Repita para funcionalidades2 e funcionalidade3.
+
+3- Integração de Funcionalidades:
+
+git checkout develop (mude para a branch develop)
+git merge funcionalidade1 (mesclar funcionalidade1)
+Repita para funcionalidade2 e funcionalidade3.
+Resolva conflitos, se houver.
+
+4-Preparação para Lançamento:
+
+git checkout -b release-v1.0.0 (criar branch de release)
+Atualize "README.md" com informações sobre a versão.
+
+5-Lançamento e Tagging:
+
+git checkout master (mude para a branch master)
+git merge release-v1.0.0 (mesclar a release em master)
+git checkout develop (mude para a branch develop)
+git merge release-v1.0.0 (mesclar a release em develop)
+git tag v1.0.0 (criar uma tag para a versão lançada)
+
+6-Correção de Bug:
+
+Simule a descoberta de um bug crítico.
+git checkout -b hotfix-v1.0.1 (criar branch de hotfix)
+Corrija o bug na branch de hotfix.
+git checkout master (mude para a branch master)
+git merge hotfix-v1.0.1 (mesclar o hotfix em master)
+git checkout develop (mude para a branch develop)
+git merge hotfix-v1.0.1 (mesclar o hotfix em develop)
